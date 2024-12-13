@@ -1,0 +1,103 @@
+.element {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+
+.item {
+    width: 400px;
+    height: 390px;
+    background-color: blue;
+}
+
+.block {
+    width: 300px;
+    height: 300px;
+    border-width: 2px;
+    border: solid;
+    border-color: brown;
+    background-color: darkgoldenrod;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    border: 3px solid slateblue;
+    background-color: darkcyan;
+}
+
+.solid {
+    width: 300px;
+    height: 150px;
+    border: 2px solid aqua;
+    background-color: blueviolet;
+}
+
+.dotted {
+    width: 200px;
+    height: 50px;
+    border: 2px dotted green;
+    background-color: crimson;
+}
+
+.dashed {
+    width: 100px;
+    height: 150px;
+    border: 3px dashed goldenrod;
+    background-color: cyan;
+}
+
+.double {
+    width: 150px;
+    height: 100px;
+    border: 3px double orange;
+    background-color: chartreuse;
+}
+
+.groove {
+    width: 200px;
+    height: 200px;
+    border: 3px groove orangered;
+    background-color: yellow;
+}
+.ridge {
+    width: 150px;
+    height: 200px;
+    border: 3px ridge black;
+    background-color: brown;
+}
+.inset {
+    width: 50px;
+    height: 100px;
+    border: 3px inset lightblue;
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+.item-1 {
+    width: 300px;
+    height: 250px;
+    background-color: blue;
+}
+
+.item-2 {
+    width: 250px;
+    height: 300px;
+    background-color: red;
+}
+
+.blocks {
+    width: 1240px;
+    height: auto;
+    border: 5px solid yellow;
+    background-color: green;
+}

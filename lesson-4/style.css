@@ -1,0 +1,51 @@
+.image {
+    width: 1240px;
+    height: auto;
+    border: 1px inset black;
+}
+
+.image img{
+    width: 250px;
+    height: 250px;
+}
+
+.telegram{
+    background-color: cyan;
+    color: white;
+    padding: 10px 20px;
+}
+.instagram{
+    background-color: darkmagenta;
+    color: white;
+    padding: 10px 20px;
+}
+.whatsapp{
+    background-color: limegreen;
+    color: white;
+    padding: 10px 20px;
+}
+.tiktok{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
+.facebook{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+}
+.youtube{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+}
+.mbank{
+    background-color: yellow;
+    color: limegreen;
+    padding: 10px 20px;
+}
+.vk{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+}

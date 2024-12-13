@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: lightskyblue;
+}
+
+
+
+.movies {
+    display: flex;
+    width: 1240px;
+    height: auto;
+    top: 50px;
+    
+}
+
+.border {
+    width: 300px;
+    height: 250px;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.fat:hover {
+    font-size: 100px;
+    margin-left: 100px;
+}
